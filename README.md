@@ -1,11 +1,15 @@
 # K Muthusamy YouTube Video Dataset
 
-This is a dataset containing the transcript of: "K. Muthusamy", Preetipls, published 30 July 2019, taken down on the same day.
+This is a dataset containing the transcript of "K. Muthusamy", YouTube video,
+published by[Preetipls](https://www.youtube.com/channel/UC3KEpER72ovRAJoX-wL6IGw)
+on 30 July 2019, taken down on the same day.
 This dataset is made public for data analysis and research under a GPL 3.0 license.
+Copyright belongs to and remains with Preeti Nair and Subhas Nair.
 
 Singapore Minister of Home Affairs and Law, K Shanmugam said that the video crossed a line for attacking an ethnic group in Singapore, and IMDA has sent takedown letters to individuals who have shared streams of the YouTube video.
 
 The video was made in response to a Government commissioned public service advertisement that publicised a new NETS payment service using a Chinese male actor who is known for cross-dressing on Chinese variety shows. He was shown presenting as a woman wearing pink, a woman wearing a tudung, a dark skinned man wearing a shirt and a tie, and a man with a moustache and in coveralls.
+
 
 See the transcript [here](./transcript.txt)
 
